@@ -2,6 +2,9 @@
 
 GadoskiAI is an AI-powered chat platform that lets users have interactive conversations with an intelligent chatbot. Built using Azure OpenAI Service, the project leverages advanced models to deliver engaging, dynamic, and informative user experiences.
 
+## Author
+Yusuf Mustapha Opeyemi
+
 ## Features
 - Chat with AI in real-time.
 - Powered by Azure OpenAI endpoints for reliable and scalable performance.
