@@ -1,0 +1,19 @@
+[ User Input ]  OR  [ User Uploads .docx File ]  
+            |                        |  
+            ↓                        ↓  
+      [ Frontend Sends Prompt ]      [ Process .docx File ]  
+            |                        |  
+            ↓                        ↓  
+  [ Combine User Input & Extracted File Content ]  
+            |  
+            ↓  
+  [ API Sends Request to Azure OpenAI ]  
+            |  
+            ↓  
+  [ Azure OpenAI Processes and Generates Response ]  
+            |  
+            ↓  
+  [ API Extracts and Sends Response to Frontend ]  
+            |  
+            ↓  
+  [ User Receives AI Response in Chat ]  
